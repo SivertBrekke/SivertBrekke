@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SivertBrekke
-- 🌱 I’m currently learning C#, ASP.NET, Flutter
+- 🌱 I’m currently learning C#, ASP.NET, UNO Platform
 - 📫 How to reach me: siv.brekke@stud.uis.no
 
 <!---
